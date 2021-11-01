@@ -1,0 +1,1 @@
+taskkill /F /FI "WindowTitle eq C:\Windows\system32\cmd.exe" /T
