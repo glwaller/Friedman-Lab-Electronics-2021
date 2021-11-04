@@ -1,2 +1,3 @@
 # Friedman-Lab-Electronics-2021
-change later
+
+MCU Commands: Repository of MCU Commands (Batch Files, that are being used in our experiment)
