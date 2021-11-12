@@ -1,1 +1,0 @@
-taskkill /F /IM plink.exe

@@ -1,3 +1,0 @@
-These are the original microcontroller command batch files. These DO NOT include the option to pass an argument to them, thus they will only
-work with only one particular serial port. This issue was resolved in the batch files that in the folder above this one use by replacing the 
-putty/plink session name with %1.
