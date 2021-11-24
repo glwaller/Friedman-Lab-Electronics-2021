@@ -1,2 +1,3 @@
 # Guides
-In the future, this will include a basic table of contents of guides - briefly describing what each one is.
+
+1 - Protocol for running trials: basic guide intructing the set-up, trial running, and shut down process.
