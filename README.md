@@ -1,4 +1,4 @@
-# List of Common Issues and Their Solutions
+# Common Issues and Their Solutions
 
 Lights
 
