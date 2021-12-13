@@ -8,7 +8,7 @@ Lights
 
 Valves
 
-1.Problem: Relay clicking, but valves not clicking. 
+1. Problem: Relay clicking, but valves not clicking. 
 1a. Solution: Check connections and cables, start at the physical valves and check the cable all the way to MCU/Breadboards/Relays and then usb connections to the desktop.
 
 2. Problem: Relays for arenas not clicking. 
