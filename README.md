@@ -7,3 +7,4 @@ This branch contains:
 
 Project was created in December 2021 using Autodesk Eagle Free
 The software can be downloaded at https://www.autodesk.com/products/eagle/free-download
+Foorprints were downloaded from Ultralibrarian at https://www.ultralibrarian.com/
