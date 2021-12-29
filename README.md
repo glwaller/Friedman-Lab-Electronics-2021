@@ -1,10 +1,9 @@
-# Friedman-Lab-Electronics-2021
-Welcome to the electronics repository for Dr. Alexander Friedman's Lab at The University of Texas at El Paso.
+Printed Circuit Board (PCB) files are contained here.
 
-Besides the main branch, there are four main branches: 
-(1) Guides: where instructions and protocols will be uploaded. 
-(2) Microcontroller Information: where the information on, and codes used in conjunction with our microcontrollers will be kept.
-(3) EthoVision: Where the ideas behind our behavioral tasks and the EthoVision Experiments themselves will be stored.
-(4) Troubleshooting: Most common problems and there solutions.
+This branch contains:
+1) The Autodesk Eagle Project file.
+2) PCB Gerber files for printing.
+3) JST-XH connector footprints and schematic elements used in the project.
 
-Should you have any questions, comments, or concerns please email: glwaller@miners.utep.edu
+Project was created in December 2021 using Autodesk Eagle Free
+The software can be downloaded at https://www.autodesk.com/products/eagle/free-download
