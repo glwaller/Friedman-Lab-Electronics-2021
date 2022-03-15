@@ -2,4 +2,5 @@
 
 The code here is what we used to execute LED and valve commands.
 
-We used PuTTY to do this (what version, what is the exact process)?
+Link to PuTTY 0.76 INSTALLER
+https://www.chiark.greenend.org.uk/~sgtatham/putty/releases/0.76.html
