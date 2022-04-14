@@ -3,7 +3,7 @@ Printed Circuit Board (PCB) files are contained here.
 This branch contains:
 1) The Autodesk Eagle Project file.
 2) PCB Gerber files for printing.
-3) JST-XH connector footprints and schematic elements used in the project.
+3) JST-XH connector (2 position, 5 position, and 6 position) footprints and schematic elements used in the project.
 
 Project was created in December 2021 using Autodesk Eagle Free
 
